@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there 😉
+
+My name is André and currently I'am studing Informatics and Computing Engineering @FEUP 🧑‍💻
+
+[LinkedIn](https://www.linkedin.com/in/andrepereira2001/)
 
 <!--
 **Andrepereira2001/Andrepereira2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
