@@ -1,6 +1,6 @@
 ### Hey there 😉
 
-My name is André and currently I'am studing Informatics and Computing Engineering @FEUP 🧑‍💻
+My name is André and currently I'm studing Informatics and Computing Engineering @FEUP 🧑‍💻
 
 [LinkedIn](https://www.linkedin.com/in/andrepereira2001/)
 
